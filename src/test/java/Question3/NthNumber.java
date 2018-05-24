@@ -1,13 +1,12 @@
 package Question3;
-
-import java.util.Arrays;
-import java.util.Random;
-
 /**
  * @author  Aditya Shah
  * @version 1.0
  *
  */
+import java.util.Arrays;
+import java.util.Random;
+
 public class NthNumber {
 
     public static void main(String[]args){

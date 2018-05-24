@@ -1,5 +1,9 @@
 package com.weightwatchers.pageobjects;
-
+/**
+ * @author  Aditya Shah
+ * @version 1.0
+ *
+ */
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.NoSuchElementException;

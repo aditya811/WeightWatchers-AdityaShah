@@ -1,10 +1,10 @@
 package Question1;
-import java.io.*;
 /**
  * @author  Aditya Shah
  * @version 1.0
  *
  */
+import java.io.*;
 public class ReadFile {
     public static void main(String[]args) throws IOException {
 

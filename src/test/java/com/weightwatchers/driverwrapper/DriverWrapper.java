@@ -1,5 +1,9 @@
 package com.weightwatchers.driverwrapper;
-
+/**
+ * @author  Aditya Shah
+ * @version 1.0
+ *
+ */
 import java.util.concurrent.TimeUnit;
 
 import com.weightwatchers.pageobjects.DriverBasePage;
